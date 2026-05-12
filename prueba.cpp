@@ -3,9 +3,9 @@ using namespace std;
 int main() {
     int gatitos;
 
-    cout<<"¿Cuántos gatitos quieres?"<<endl;
+    cout << "Cuantos gatitos quieres?" << endl;
     cin>>gatitos;
-    cout<<"Aquí tienes "<<gatitos<<" gatitos!"<<endl;
+    cout << "Aqui tienes " << gatitos << " gatitos!" << endl;
     cout << "FELIZ DIA A TODOS, XD" << endl;
     return 0;
 }

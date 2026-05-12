@@ -13,3 +13,9 @@ Code Runner
 Luego solo presionas:
 
 ▶️ botón "Run" o Crtl + Alt + N
+
+
+
+---------------
+g++ -o runProgram main.cpp
+runProgram.exe
